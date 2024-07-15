@@ -1,4 +1,4 @@
-package ru.maxima.dockerTest;
+package ru.maxima;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
